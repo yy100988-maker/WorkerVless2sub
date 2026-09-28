@@ -11,7 +11,7 @@ let DLS = 7;
 let remarkIndex = 1;//CSV备注所在列偏移量
 
 let subConverter = 'SUBAPI.cmliussss.net';
-let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NtbGl1L0FDTDRTU1IvbWFpbi9DbGFzaC9jb25maWcvQUNMNFNTUl9PbmxpbmVfRnVsbF9NdWx0aU1vZGUuaW5p');
+let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3l5MTAwOTg4LW1ha2VyL2NtbGl1LWVkZ2V0dW5uZWwvbWFpbi9ydWxlcy9teWNvbmZpZy5pbmk=');
 let subProtocol = 'https';
 let noTLS = 'false';
 let link;
